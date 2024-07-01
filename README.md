@@ -1,2 +1,2 @@
 # weatherApp
-weather app using weather api
+https://satyam-kanaujiya.github.io/weatherApp/
