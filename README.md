@@ -1,2 +1,2 @@
 # weatherApp
-https://satyam-kanaujiya.github.io/weatherApp/
+link: https://satyam-kanaujiya.github.io/weatherApp/
